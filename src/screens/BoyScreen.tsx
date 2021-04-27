@@ -1,6 +1,8 @@
 import * as React from 'react'
 import {View, Text} from 'react-native'
-import {Header} from 'react-native-elements'
+import {Button, Header} from 'react-native-elements'
+import { Heading, Page } from '../../components'
+
 
 const BoyScreen: React.FC = () => {
     return(
@@ -10,7 +12,10 @@ const BoyScreen: React.FC = () => {
                 centerComponent={{ text: 'For my boy 👱', style: { color: '#fff' } }}
                 rightComponent={{ icon: 'home', color: '#fff' }}
                 />
-            <Text>Cho gau duc</Text>
+            <Page>
+                <Heading>Take the code and give it to your girl friend ❤️‍🔥</Heading>
+                <Button title="Press to take code"/>
+            </Page>
         </View>
     )
 }
