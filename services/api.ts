@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const EXPO_SERVER_URL = 'https://exp.host/--/api/v2/push/send'
-const TOKEN_SERVER_URL = 'http://gau-server.glitch.me/notification'
+const TOKEN_SERVER_URL = 'http://gau-server.glitch.me/notifications'
 
 export interface Token {
     id: number
@@ -19,7 +19,7 @@ export const getToken = async(id: number | string) =>{
     const result = response.data as Token
     return result
 }
-export const sendPushNotification = async(token: string, title:string, body:string) =>{
+export const sendPushNotification = async(token: string, title:string, body:string) => {
     const messenge = {
         to: token,
         sound: 'default',

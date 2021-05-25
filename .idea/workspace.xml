@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21f4afae-d6e1-4015-9381-317dd589c94d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/services/api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/services/api.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/BoyScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/BoyScreen.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/GirlScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/GirlScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/HomeScreen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +43,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -82,14 +81,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1230" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1621933370741" />
-    <state x="489" y="212" width="1200" height="801" key="AVDManager" timestamp="1621940235647">
+    <state x="489" y="212" width="1200" height="801" key="AVDManager" timestamp="1621949802278">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="489" y="212" width="1200" height="801" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1621940235647" />
+    <state x="489" y="212" width="1200" height="801" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1621949802278" />
     <state x="934" y="394" key="FileChooserDialogImpl" timestamp="1621934961719">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="934" y="394" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1621934961719" />
+    <state x="661" y="229" key="SettingsEditor" timestamp="1621948462926">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="229" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1621948462926" />
     <state x="776" y="338" key="run.anything.popup" timestamp="1621930499909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
