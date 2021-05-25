@@ -44,19 +44,19 @@ const GirlScreen: React.FC = () => {
                 </View>
                 
                 <View style={{marginTop: 30}}>
-                    <Heading>Trieu hoi gau duc</Heading>
+                    <Heading>Summon your boyfriend here</Heading>
                     <ButtonContainer>
                         <SummonButton color="#e74c3c">
                             <SummonButtonText> I am hungy 🍜</SummonButtonText>
                         </SummonButton>
                         <SummonButton color="#2980b9">
-                            <SummonButtonText> I miss you 🥺</SummonButtonText>
+                            <SummonButtonText> i want to eat you 🥺</SummonButtonText>
                         </SummonButton>
                         <SummonButton color="#2ecc71">
                             <SummonButtonText> Call me bae 🤙</SummonButtonText>
                         </SummonButton>
                         <SummonButton color="#f1c40f">
-                            <SummonButtonText> Call me bae 🤙</SummonButtonText>
+                            <SummonButtonText> I am alone 🤙</SummonButtonText>
                         </SummonButton>
                     </ButtonContainer>
                 </View>

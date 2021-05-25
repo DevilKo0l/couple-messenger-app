@@ -14,11 +14,11 @@ const HomeScreen: React.FC = ()=> {
     <Tab.Navigator>
       <Tab.Screen 
         name="BoyScreen" 
-        options={{tabBarIcon: () => <text>👱</text>}}
+        options={{tabBarIcon: () => <Text>👱</Text>}}
         component={BoyScreen} />
       <Tab.Screen 
         name="GirlScreen"
-        options={{tabBarIcon: () => <text>👩</text>}} 
+        options={{tabBarIcon: () => <Text>👩</Text>}}
         component={GirlScreen} />
     </Tab.Navigator>
   )
